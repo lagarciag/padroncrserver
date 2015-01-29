@@ -6,7 +6,10 @@
 # Folders
 _obj
 _test
-
+*img
+*.jpg
+*.gif
+*.png
 # Architecture specific extensions/prefixes
 *.[568vq]
 [568vq].out

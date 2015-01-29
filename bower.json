@@ -1,0 +1,24 @@
+{
+  "name": "padronserver",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lagarciag/padroncrserver",
+  "authors": [
+    "Luis Garcia <luis.a.garcia@hp.com>"
+  ],
+  "description": "Padron Server",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.4"
+  }
+}
